@@ -17,11 +17,11 @@ LOG_LEVEL = 'WARNING'
 
 ITEM_PIPELINES = {'jobInfo.pipelines.JobinfoPipeline': 1}
 
-MONGODB_HOST = '202.114.196.97'
-MONGODB_PORT = 3306
-MONGODB_DBNAME = 'zhaopinhui'
-MONGODB_USERNAME = 'senluo'
-MONGODB_PASSWORD = 'senluo520'
+MONGODB_HOST = 
+MONGODB_PORT = 
+MONGODB_DBNAME = 
+MONGODB_USERNAME = 
+MONGODB_PASSWORD = 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'jobInfo (+http://www.yourdomain.com)'
